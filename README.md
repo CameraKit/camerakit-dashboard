@@ -1,1 +1,1 @@
-# camerakit-dashboard
+# CameraKit Dashboard
