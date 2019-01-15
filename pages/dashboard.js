@@ -1,7 +1,7 @@
 import React from 'react';
 
 import MainLayout from '../components/layout/mainLayout';
-import ComingSoon from '../components/view/comingsoon';
+import KeyTest from '../components/view/keytest';
 
 import withAuth from '../utils/withAuth';
 
@@ -9,7 +9,7 @@ class Dashboard extends React.Component {
   render() {
     return (
       <MainLayout view="Dashboard">
-        <ComingSoon />
+        <KeyTest />
       </MainLayout>
     );
   }
